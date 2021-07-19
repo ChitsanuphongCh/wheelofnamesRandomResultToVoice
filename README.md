@@ -16,3 +16,5 @@ Things to know.
 - oauth2client.service_account
 - selenium
 - python class
+
+You can apply it to other websites.
