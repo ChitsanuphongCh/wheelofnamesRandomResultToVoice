@@ -88,6 +88,7 @@ n = 0
 find = ''
 tempDek64 = ''
 tempP63 = ''
+other = ''
 test = False
 step_1 = True
 step_2 = False
@@ -126,10 +127,6 @@ driver_keyPass.find_element_by_xpath('/html/body/span/section/div/div[1]/div/div
 driver_dek64.find_element_by_xpath('/html/body/span/section/div/div[2]/div').click()
 sleep(2)
 driver_keyPass.find_element_by_xpath('/html/body/span/section/div/div[2]/div').click()
-
-# สายที่ได้พี่รหัส 2 คน รุ่นพี่บอกให้บอกน้องด้วย เคร๊ ๆๆๆๆ มีก็มีจัดให้
-# p64_2 = ['2*', '3*', '5*', '8*', '11*', '17*', '23*', '24*', '30*', '31*', '32*', '34*', '38*', '53*', '55*', '67*', '76*']
-other = ''
 
 while (True) :
     #   Random position dek64
