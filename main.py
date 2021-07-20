@@ -63,7 +63,6 @@ def setResultKeyPass(value) :
     sheet.update_cell((n+1), 7, str(value))
 
 # ------------------------------------------------------------------------ Sound area
-# print(n)
 def checkBranch(value) :
     if (str(value) == 'IT'):  return 'ไอที'
     else: return 'ไอเอ็นอี'
