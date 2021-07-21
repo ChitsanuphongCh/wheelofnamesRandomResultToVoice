@@ -4,7 +4,6 @@ from time import sleep
 # ---------------------------------------------- tkinter window pop up
 import tkinter as tk
 import threading
-global text
 
 # ---------------------------------------------- Voice
 from gtts import gTTS
