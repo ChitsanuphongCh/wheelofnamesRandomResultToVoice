@@ -1,7 +1,7 @@
 Programs random alert result x wheelofnames everything type in python
 
 Must change files.
-- "data_api.json" line at 6 change your email(google_sheet_api)
+- "data_api.json" line at 6 and 7 change your email(google_sheet_api) and change your client id from google drive api & sheet api
 - "main.py" change your link driver.get("url your web to work")
 
 Things to know.
