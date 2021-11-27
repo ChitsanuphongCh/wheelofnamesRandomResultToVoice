@@ -1,4 +1,5 @@
-Programs random alert result x wheelofnames everything type in python
+The program takes random numbers from wheelofnames and inserts the random values 
+into the google sheet in random order and lets google translate speak the random data.
 
 Must change files.
 - "data_api.json" line at 6 and 7 change your email(google_sheet_api) and change your client id from google drive api & sheet api
