@@ -15,7 +15,7 @@ Things to know.
 - playsound
 - gspread
 - oauth2client.service_account
-- selenium
+- selenium webdriver
 - python class
 
 example: https://www.facebook.com/csnp.ch/videos/843967539853364
