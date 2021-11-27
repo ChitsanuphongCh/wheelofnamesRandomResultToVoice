@@ -18,6 +18,6 @@ Things to know.
 - selenium webdriver
 - python class
 
-example: https://www.facebook.com/csnp.ch/videos/843967539853364
+example using a program : https://www.facebook.com/csnp.ch/videos/843967539853364
 
 You can apply it to other websites.
